@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		w4X+KMBhn5gRdIiZoZWziwiN4ik=
+		/wggT0nDfhqEbkkMgd0ToF0eLE8=
 		</data>
 		<key>Resources/Data/Managed/Crest.dll</key>
 		<data>
@@ -510,7 +510,7 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		nnHhNK0AXa3BkEAmzurHKuLL9h4=
+		7y8fQHb7RJH/VMrQhSqhZBlunrE=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
@@ -526,7 +526,7 @@
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
-		dmiXe3nR60tkNO1ZBLxjBbX/Q/Y=
+		UoBiMTKCMRRLHd/Wc2gOO5gM6Wk=
 		</data>
 		<key>Resources/Data/resources.assets.resS</key>
 		<data>
@@ -725,10 +725,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			7Ri5CaukDjmlEM2azzMAdnlp3WY=
+			fvFcp8VidpVRyuNczgVEp5aEn6g=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ed18b909aba40e39a510cd9acf3300767969dd66" or cdhash H"9a34a3984c05b4a2ba31eabb4688c776f47b5fae"</string>
+			<string>cdhash H"7ef15ca7c562769551cae35cce0544a796849fa8" or cdhash H"1e4d1fcd92a41cbe1b31ffc11814c95661f6bf44"</string>
 		</dict>
 		<key>PlugIns/libgrpc_csharp_ext.x64.bundle</key>
 		<dict>
@@ -743,7 +743,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ukonhLtgpoRuaZrIk5TuRLBDCPl/heM51rmP47mLha4=
+			MhHx50SjU7NKl6yey+n0J5DeS0LnD2XH5C1t3K7HM18=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Crest.dll</key>
@@ -1625,7 +1625,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+LKtopiE3SVD+mxW+dmUDDkZLASrjqwWoHtC9Twe9tk=
+			XnyiexdG7Q2Gv7M3pm8X/H0BZ5JE2amUEbm5TE6JOUc=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
@@ -1653,7 +1653,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zUh8p0KdGcNf1uQRvgTadtRUKLE78XuGDrF0w8QEH08=
+			j8ePRQBL7CN9ITfh5JQvTwMDA0FFyp4XXG/Iw2hewlw=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets.resS</key>
