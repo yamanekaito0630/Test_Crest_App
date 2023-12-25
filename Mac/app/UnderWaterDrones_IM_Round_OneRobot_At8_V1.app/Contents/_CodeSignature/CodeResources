@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		vX8k2YmtjiVl7TUK48jzrKRH19U=
+		w4X+KMBhn5gRdIiZoZWziwiN4ik=
 		</data>
 		<key>Resources/Data/Managed/Crest.dll</key>
 		<data>
@@ -510,7 +510,7 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		nKPd2Mi4lkgxdFfqumxasT9WrGc=
+		e9nnBvAqjyys0kveLrZ1/n0Xrco=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
@@ -518,7 +518,7 @@
 		</data>
 		<key>Resources/Data/level0</key>
 		<data>
-		K8YrEvA5XvdFAp2727v/pmhun9A=
+		uHqbvqw60XJo6rjIYphhOmC1aWQ=
 		</data>
 		<key>Resources/Data/level0.resS</key>
 		<data>
@@ -526,7 +526,7 @@
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
-		dmiXe3nR60tkNO1ZBLxjBbX/Q/Y=
+		UoBiMTKCMRRLHd/Wc2gOO5gM6Wk=
 		</data>
 		<key>Resources/Data/resources.assets.resS</key>
 		<data>
@@ -534,11 +534,11 @@
 		</data>
 		<key>Resources/Data/sharedassets0.assets</key>
 		<data>
-		zb1PP1xBHW4RIoGnUirfTCdWqJo=
+		fhH+JG+0Dy6NlUbrGTNeVWZiyrA=
 		</data>
 		<key>Resources/Data/sharedassets0.assets.resS</key>
 		<data>
-		ud5Fo6riwHgKEesnTfdt4VTmHRM=
+		y05hAWC6rUVsO0Dsx+loVokv3ac=
 		</data>
 		<key>Resources/DefaultPreferences.plist</key>
 		<data>
@@ -732,10 +732,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			sZjHl0Gsr5ZQ+rGI+TVYvdKhIgw=
+			uROJHyemKN8Wfhf/1Yle15nNjt0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b198c79741acaf9650fab188f93558bdd2a1220c" or cdhash H"6ec32bc0776b88171e9a54bea302988fe7819985"</string>
+			<string>cdhash H"b913891f27a628df167e17ffd5895ed799cd8edd" or cdhash H"eac0d73d3ae39a4345f3ca2deb06eca4909283c4"</string>
 		</dict>
 		<key>PlugIns/libgrpc_csharp_ext.x64.bundle</key>
 		<dict>
@@ -750,7 +750,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U6DJVr4efN/PtWRZT8LxkveIu89ErtUL73nk29StDiY=
+			ukonhLtgpoRuaZrIk5TuRLBDCPl/heM51rmP47mLha4=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Crest.dll</key>
@@ -1632,7 +1632,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XRlfeiB2t7okGbV9rsuTR2cGcK0ulbQ1PM1f4XzK8sc=
+			I3LpUJMzdOp4O79foSEQcrYHNhSTrgvrPp4HAo9SwSw=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
@@ -1646,7 +1646,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tw5kifWUm85o/2x+V72QGzbNJlFaoXXbuRixnTkHVkw=
+			zgS05jzk/NMnFrJFO13eK1177Mq6VIgEUOlA/R/2Xmg=
 			</data>
 		</dict>
 		<key>Resources/Data/level0.resS</key>
@@ -1660,7 +1660,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zUh8p0KdGcNf1uQRvgTadtRUKLE78XuGDrF0w8QEH08=
+			j8ePRQBL7CN9ITfh5JQvTwMDA0FFyp4XXG/Iw2hewlw=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets.resS</key>
@@ -1674,14 +1674,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wxnb+iaGJc4/j7E+/NErZfMoHUvESObPTZ+FYmNqw9k=
+			PUDeQ81CdOxUb/g8FzXk/ovbCopzQ2H141WimhDO1L8=
 			</data>
 		</dict>
 		<key>Resources/Data/sharedassets0.assets.resS</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ur0x6iECY0vwsJpBwEPO/xHKznE7ovBivb9V15tXFT4=
+			fouSeBS3DzmJ+K7WdEjXO9wCEFBMwg6On+bI0r6qfvA=
 			</data>
 		</dict>
 		<key>Resources/DefaultPreferences.plist</key>
