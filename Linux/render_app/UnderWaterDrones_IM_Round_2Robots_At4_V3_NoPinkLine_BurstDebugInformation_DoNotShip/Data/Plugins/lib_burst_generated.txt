@@ -104,6 +104,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 --compilation-defines=CREST_OCEAN
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -114,6 +115,7 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=UNITY_POSTPROCESSING_ENABLED
 --compilation-defines=ENABLE_VR_MODULE
 --compilation-defines=ENABLE_XR_MODULE
 --compilation-defines=CREST_UNITY_BURST
@@ -136,6 +138,7 @@ Library: lib_burst_generated
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Barracuda.ONNX.dll
+--root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Assembly-CSharp-firstpass.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
@@ -401,6 +404,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 --compilation-defines=CREST_OCEAN
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -411,6 +415,7 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=UNITY_POSTPROCESSING_ENABLED
 --compilation-defines=ENABLE_VR_MODULE
 --compilation-defines=ENABLE_XR_MODULE
 --compilation-defines=CREST_UNITY_BURST
@@ -433,6 +438,7 @@ Library: lib_burst_generated
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Barracuda.ONNX.dll
+--root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Assembly-CSharp-firstpass.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
@@ -699,6 +705,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 --compilation-defines=CREST_OCEAN
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -709,6 +716,7 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=UNITY_POSTPROCESSING_ENABLED
 --compilation-defines=ENABLE_VR_MODULE
 --compilation-defines=ENABLE_XR_MODULE
 --compilation-defines=CREST_UNITY_BURST
@@ -731,6 +739,7 @@ Library: lib_burst_generated
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Barracuda.ONNX.dll
+--root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Assembly-CSharp-firstpass.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
@@ -885,6 +894,7 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 --compilation-defines=CREST_OCEAN
+--compilation-defines=UNITY_POST_PROCESSING_STACK_V2
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -895,6 +905,7 @@ Library: lib_burst_generated
 --compilation-defines=MLA_UNITY_ANALYTICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS_MODULE
 --compilation-defines=MLA_UNITY_PHYSICS2D_MODULE
+--compilation-defines=UNITY_POSTPROCESSING_ENABLED
 --compilation-defines=ENABLE_VR_MODULE
 --compilation-defines=ENABLE_XR_MODULE
 --compilation-defines=CREST_UNITY_BURST
@@ -917,6 +928,7 @@ Library: lib_burst_generated
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Barracuda.ONNX.dll
+--root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Postprocessing.Runtime.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Assembly-CSharp-firstpass.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.Burst.dll
 --root-assembly=/Users/yamane/Desktop/unity_projects/Test_Crest/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
